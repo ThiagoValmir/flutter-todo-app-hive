@@ -1,16 +1,19 @@
-# flutter_hive_todo_app
+# 📝 To-Do List App com Hive
 
-A new Flutter project.
+Este é um simples aplicativo de **lista de tarefas (To-Do List)** desenvolvido em **Flutter**, utilizando o pacote **[Hive](https://pub.dev/packages/hive)** para persistência local de dados.  
+O projeto foi criado com o objetivo de aprendizado, seguindo um tutorial disponível no YouTube.
 
-## Getting Started
+## 🎯 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- ✅ Adicionar tarefas
+- 🗑️ Remover tarefas
+- 💾 Armazenamento local usando Hive (sem necessidade de internet)
+- 💡 Interface simples e intuitiva
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Dart**
+- **Hive** (armazenamento local)
+- **Hive Flutter** (adaptação do Hive para Flutter)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
